@@ -30,7 +30,7 @@ using namespace std;
 			n = n / i;
 		}
 
-		while(n % (i + 2) == 0)
+		while(n % (i + 2) == 0) 
 		{
 			cout<<(i + 2)<<" ";
 
