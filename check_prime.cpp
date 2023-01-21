@@ -21,7 +21,7 @@ using namespace std;
 	}
 
 	return true;
-}
+}                              // the better programm lies in sieve of erathonese // 
 
 int main() {
     
