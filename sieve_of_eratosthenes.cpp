@@ -33,7 +33,7 @@ void sieve(int n)
 }
 int main()
 {
-
+    // takes the input of the number // 
 	int n;
 	cout << "Enter the value of n " << endl;
 	cin >> n;
